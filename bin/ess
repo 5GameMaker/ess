@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+exec -a "$0" `which node` "$SCRIPT_DIR/../" $@
