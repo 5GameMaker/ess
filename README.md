@@ -31,7 +31,7 @@ description = "project description"
 
 5. Open `localhost:3000` in your browser
 
-Yes, that easy, no "*create an overly-complicated function component that has more boilerplate code that Java class fields that breaks whey try doing anything more complicated than updating a list*". Actually, having "*more boilerplate code than Java*" should be a feature, why [REDACTED] devs haven't thought about that?
+Yes, that easy, no "*create an overly-complicated function component that has more boilerplate code that Java class fields that breaks when you try doing anything more complicated than updating a list*". Actually, having "*more boilerplate code than Java*" should be a feature, why [REDACTED] devs haven't thought about that?
 
 If you don't like using plain html and would like to have your entire UI rendered with JavaScript, consider looking into [React](https://reactjs.org/) instead.
 
